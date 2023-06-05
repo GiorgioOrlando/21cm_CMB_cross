@@ -18,3 +18,5 @@ neglicible.
 the code (at least, I do not packages that run in parallel function-idexes subjet to conditions between them (also, considering that I really 
 want to avoid summing over all the l1, l2's. I really want all the l2's values given a l1 value). 
 If something can be done in this regards it would be super. 
+
+Deadline: withing second half of July, then no time 
