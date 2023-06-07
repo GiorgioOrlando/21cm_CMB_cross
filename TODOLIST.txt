@@ -20,3 +20,8 @@ want to avoid summing over all the l1, l2's. I really want all the l2's values g
 If something can be done in this regards it would be super. 
 
 Deadline: withing second half of July, then no time 
+
+- NEXT STEP: in princople secondaries should not play a significant role, so off-diagonal components to the covariance matrix of this cross-correlation
+should be subdominant to diagonal components, hence they can be neglected. A precise analysis should include those, and will give more precise results. 
+In this work only an estimation has been done. 
+
