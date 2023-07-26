@@ -6,15 +6,25 @@ In order to run the notebooks you will need the following packages:
 - numpy
 
 - scipy
-joblib
-matplotlib
-tqdm
-time
-pywigxjpf
-mpmath
-camb
-ipykernel
-sympy
-inspect
+  
+- joblib
+  
+- matplotlib
+  
+- tqdm
+
+-time
+
+-pywigxjpf
+
+-mpmath
+
+-camb
+
+-ipykernel
+
+-sympy
+
+-inspect
 
 
