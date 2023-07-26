@@ -1,7 +1,7 @@
 # <21-21-CMB> cross-correlations
 We provide the (python) code used to perform the Fisher analyses in ......
 
-In order to run the notebooks you will need the following packages:
+In order to run the notebook you will need the following packages:
 
 - numpy
 
