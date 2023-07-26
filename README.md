@@ -13,17 +13,17 @@ In order to run the notebooks you will need the following packages:
   
 - tqdm
 
--time
+- time
 
--pywigxjpf
+- pywigxjpf
 
--mpmath
+- mpmath
 
--camb
+- camb
 
--ipykernel
+- ipykernel
 
--sympy
+- sympy
 
 -inspect
 
