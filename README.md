@@ -25,6 +25,6 @@ In order to run the notebooks you will need the following packages:
 
 - sympy
 
--inspect
+- inspect
 
 
